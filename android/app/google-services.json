@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613095476135",
+    "project_id": "newsnotification-59fb2",
+    "storage_bucket": "newsnotification-59fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613095476135:android:8b31ef0e7b6374bce20482",
+        "android_client_info": {
+          "package_name": "com.anything"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmoYqVvu3H2cd01LvpgzM7yDzoJLDc80w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
